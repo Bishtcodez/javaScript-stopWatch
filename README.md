@@ -24,9 +24,10 @@ STOPWATCH/
 ├── style.css      # Custom UI design and styling
 └── index.js       # Stopwatch core timing logic and DOM handling
 
-<img width="1846" height="945" alt="image" src="https://github.com/user-attachments/assets/2b7cc7e6-2e8a-4d45-9621-b4eefef513e6" />
-<img width="1620" height="947" alt="Screenshot 2026-06-17 132603" src="https://github.com/user-attachments/assets/25423aeb-f867-4a56-b1c0-4500525c0490" />
-<img width="1883" height="1096" alt="Screenshot 2026-06-17 134112" src="https://github.com/user-attachments/assets/88efce1e-ee4b-4a37-afe4-d90a7aa3f8a6" />
+<img width="1846" height="945" alt="Screenshot 2026-06-18 115044" src="https://github.com/user-attachments/assets/cf20b925-f092-420b-aa78-1f8fb2d76966" />
+<img width="1761" height="898" alt="Screenshot 2026-06-18 115039" src="https://github.com/user-attachments/assets/0f5a9dc4-6658-40d7-bcc3-ee25db95ca8e" />
+<img width="1797" height="785" alt="Screenshot 2026-06-18 115032" src="https://github.com/user-attachments/assets/81d2b7be-e7bb-4a48-a71c-473702a6a3c8" />
+
 
 
 
