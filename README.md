@@ -25,4 +25,9 @@ STOPWATCH/
 └── index.js       # Stopwatch core timing logic and DOM handling
 
 <img width="1846" height="945" alt="image" src="https://github.com/user-attachments/assets/2b7cc7e6-2e8a-4d45-9621-b4eefef513e6" />
+<img width="1620" height="947" alt="Screenshot 2026-06-17 132603" src="https://github.com/user-attachments/assets/25423aeb-f867-4a56-b1c0-4500525c0490" />
+<img width="1883" height="1096" alt="Screenshot 2026-06-17 134112" src="https://github.com/user-attachments/assets/88efce1e-ee4b-4a37-afe4-d90a7aa3f8a6" />
+
+
+
 
